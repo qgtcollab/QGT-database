@@ -7,26 +7,26 @@
 | Ref_3_old | [link][ref3]           | DVCS    | proton   | $d\sigma/dt$, $\sigma$ | HERA | |
 | Ref_4_old | [link][ref4]           | DVCS    | proton   | $A_{UL}^{\pi0}$, $A_{UL}^{exp}$, $A_{UL}$, $A_{UL}^{\sin\phi}$ | CLAS | |
 | Ref_5_old | [link][ref5]           | DVCS    | proton   | Im \[ $C^{I} (F)$ \], Im \[ $C^{I} (F^{eff})$ \], $C (F)$, \[ $C + \Delta C$ \] ($F$), \[ $C (F^{eff})$ \]| JLAB-E-00-110 ||
-| Ref_6 | [link][ref6]           | DVCS    | proton   | $A_{C}$, $A_{C}^{\cos\phi}$ | HERMES | |
-| Ref_7 | [link][ref7]           | DVCS    | proton   | $A$ | CLAS ||
-| Ref_8 | [link][ref8]           | DVCS    | proton   | $A_{C}^{\cos(0\phi)}$, $A_{C}^{\cos\phi}$, $A_{UT, DVCS}^{\sin(\phi-\phi_{S})}$, $A_{UT, I}^{\sin(\phi-\phi_{S})}$, $A_{UT, I}^{\sin(\phi-\phi_{S})\cos\phi}$, $A_{UT, I}^{\cos(\phi-\phi_{S})\sin\phi}$ | HERMES ||
-| Ref_9 | [link][ref9]           | DVCS    | proton   | $\sigma^{\gamma *p -> \gamma p}$, $d\sigma^{\gamma *p -> \gamma p}/dt$ | ZEUS ||
-| Ref_10| [link][ref10]          | DVCS    | proton   | $A_{LU}$ | CLAS ||
-| Ref_11| [link][ref11]          | DVCS    | proton   | $\sigma_{DVCS}$, $d\sigma_{DVCS}/d\| t\|$, $A_{C}(\phi)$ | HERA ||
-| Ref_12| [link][ref12]          | DVCS    | proton   | $A_{LU,I}^{\sin\phi}$, $A_{LU,DVCS}^{\sin\phi}$, $A_{C}^{\cos(0\phi)}$, $A_{C}^{\cos(\phi)}$, $A_{LU,I}^{\sin(2\phi)}$, $A_{C}^{\cos(2\phi)}$, $A_{C}^{\cos(3\phi)}$ | HERMES ||
-| Ref_13| [link][ref13]          | DVCS    | proton   | $A_{UL}^{\sin\phi}$, $A_{UL}^{\sin(2\phi)}$, $A_{UL}^{\sin(3\phi)}$, $A_{LL}^{\cos(0\phi)}$, $A_{LL}^{\cos\phi}$, $A_{LL}^{\cos(2\phi)}$ | HERMES ||
-| Ref_14 | [link][ref14]          | DVCS    | proton   | $A_{LT,I}^{cos(\phi−\phi_{s})}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos(2\phi)}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin\phi}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin(2\phi)}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,BH+DVCS}^{sin(\phi−\phi_{s})sin\phi}$ | HERMES | |
-| Ref_15 | [link][ref15] | DVCS | proton | $A_{LU,I}^{sin(n\phi)}$, $A_{LU,DVCS}^{sin\phi}$, $A_{C}^{cos(n\phi)}$ | HERMES | |
-| Ref_16 | [link][ref16] | DVCS | proton | $A_{LL}$, $A_{UL}$ | CLAS | |
-| Ref_17 | [link][ref17] | DVCS | proton | $\frac{d\sigma}{dx_{B}dQ^{2}dtd\phi}$ | E00-110 | |
-| Ref_18 | [link][ref18] | DVCS | proton | $d\sigma$ | CLAS | |
-| Ref_19 | [link][ref19] | DVCS | proton | $d^{4}\sigma$ | JLab E07-007 | |
-| Ref_20 | [link][ref20] | DVCS | $^{4}He$ | $A_{LU}$ | CLAS | |
-| Ref_21 | [link][ref21] | DVCS | proton | $d\sigma$ | COMPASS | |
-| Ref_22 | [link][ref22] | DVCS | neutron | $d\sigma$ | JLab E08-025 | |
-| Ref_23 | [link][ref23] | DVCS | $^{4}He$ | $A_{LU}$ | CLAS | |
-| Ref_24 | [link][ref24] | DVCS | proton | $d\sigma$ | JLab E12-06-114 | |
-| Ref_25 | [link][ref25] | DVCS | proton | $A$ | CLAS | |
+| Ref_6_old | [link][ref6]           | DVCS    | proton   | $A_{C}$, $A_{C}^{\cos\phi}$ | HERMES | |
+| Ref_7_old | [link][ref7]           | DVCS    | proton   | $A$ | CLAS ||
+| Ref_8_old | [link][ref8]           | DVCS    | proton   | $A_{C}^{\cos(0\phi)}$, $A_{C}^{\cos\phi}$, $A_{UT, DVCS}^{\sin(\phi-\phi_{S})}$, $A_{UT, I}^{\sin(\phi-\phi_{S})}$, $A_{UT, I}^{\sin(\phi-\phi_{S})\cos\phi}$, $A_{UT, I}^{\cos(\phi-\phi_{S})\sin\phi}$ | HERMES ||
+| Ref_9_old | [link][ref9]           | DVCS    | proton   | $\sigma^{\gamma *p -> \gamma p}$, $d\sigma^{\gamma *p -> \gamma p}/dt$ | ZEUS ||
+| Ref_10_old| [link][ref10]          | DVCS    | proton   | $A_{LU}$ | CLAS ||
+| Ref_11_old| [link][ref11]          | DVCS    | proton   | $\sigma_{DVCS}$, $d\sigma_{DVCS}/d\| t\|$, $A_{C}(\phi)$ | HERA ||
+| Ref_12_old| [link][ref12]          | DVCS    | proton   | $A_{LU,I}^{\sin\phi}$, $A_{LU,DVCS}^{\sin\phi}$, $A_{C}^{\cos(0\phi)}$, $A_{C}^{\cos(\phi)}$, $A_{LU,I}^{\sin(2\phi)}$, $A_{C}^{\cos(2\phi)}$, $A_{C}^{\cos(3\phi)}$ | HERMES ||
+| Ref_13_old| [link][ref13]          | DVCS    | proton   | $A_{UL}^{\sin\phi}$, $A_{UL}^{\sin(2\phi)}$, $A_{UL}^{\sin(3\phi)}$, $A_{LL}^{\cos(0\phi)}$, $A_{LL}^{\cos\phi}$, $A_{LL}^{\cos(2\phi)}$ | HERMES ||
+| Ref_14_old | [link][ref14]          | DVCS    | proton   | $A_{LT,I}^{cos(\phi−\phi_{s})}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos(2\phi)}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin\phi}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin(2\phi)}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,BH+DVCS}^{sin(\phi−\phi_{s})sin\phi}$ | HERMES | |
+| Ref_15_old | [link][ref15] | DVCS | proton | $A_{LU,I}^{sin(n\phi)}$, $A_{LU,DVCS}^{sin\phi}$, $A_{C}^{cos(n\phi)}$ | HERMES | |
+| Ref_16_old | [link][ref16] | DVCS | proton | $A_{LL}$, $A_{UL}$ | CLAS | |
+| Ref_17_old | [link][ref17] | DVCS | proton | $\frac{d\sigma}{dx_{B}dQ^{2}dtd\phi}$ | E00-110 | |
+| Ref_18_old | [link][ref18] | DVCS | proton | $d\sigma$ | CLAS | |
+| Ref_19_old | [link][ref19] | DVCS | proton | $d^{4}\sigma$ | JLab E07-007 | |
+| Ref_20_old | [link][ref20] | DVCS | $^{4}He$ | $A_{LU}$ | CLAS | |
+| Ref_21_old | [link][ref21] | DVCS | proton | $d\sigma$ | COMPASS | |
+| Ref_22_old | [link][ref22] | DVCS | neutron | $d\sigma$ | JLab E08-025 | |
+| Ref_23_old | [link][ref23] | DVCS | $^{4}He$ | $A_{LU}$ | CLAS | |
+| Ref_24_old | [link][ref24] | DVCS | proton | $d\sigma$ | JLab E12-06-114 | |
+| Ref_25_old | [link][ref25] | DVCS | proton | $A$ | CLAS | |
 
 <ins>Ref_1</ins>
 
