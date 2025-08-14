@@ -27,6 +27,7 @@
 | Ref_23_old | [link][ref23] | DVCS | $^{4}He$ | $A_{LU}$ | CLAS | |
 | Ref_24_old | [link][ref24] | DVCS | proton | $d\sigma$ | JLab E12-06-114 | |
 | Ref_25_old | [link][ref25] | DVCS | proton | $A$ | CLAS | |
+| Ref_1 | [link][ref1]           | DVCS    | proton   | $A_{LU}$, $A_{LU}^{\sin\phi}$ | HERMES                   |                   |
 
 <ins>Ref_1</ins>
 
