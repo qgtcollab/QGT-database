@@ -31,7 +31,7 @@
 | Ref_27 | [link][ref27]           | DVCS    | proton   |  |                    |                   |
 | Ref_28 | [link][ref28]           | DVCS    | proton   |  |                    |                   |
 | Ref_29 | [link][ref29]           | DVCS    | proton   |  |                    |                   |
-| Ref_30 | [link][ref30]           | DVCS    | proton   |  |                    |                   |
+| Ref_30 | [link][ref30]           | DVCS    | deuteron    |  |                    |                   |
 
 
 <ins>Ref_1</ins>
