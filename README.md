@@ -41,8 +41,6 @@
 Ref_1_0106068.pdf. Experimental data: No
 The link in inspire is https://inspirehep.net/literature/558570
 
-[notes]: https://drive.google.com/drive/folders/1FUJjPDntPILtD-xYoraBwfY42I3sNeJd
-
 <ins>Ref_2</ins>
 
 [ref2]: https://inspirehep.net/literature/560087
