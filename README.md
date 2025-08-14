@@ -27,11 +27,11 @@
 | Ref_23 | [link][ref23] | DVCS | $^{4}He$ | $A_{LU}$ | CLAS | |
 | Ref_24 | [link][ref24] | DVCS | proton | $d\sigma$ | JLab E12-06-114 | |
 | Ref_25 | [link][ref25] | DVCS | proton | $A$ | CLAS | |
-| Ref_26 | [link][ref26]           | DVCS    |    |  |                    |                   |
-| Ref_27 | [link][ref27]           | DVCS    |    |  |                    |                   |
-| Ref_28 | [link][ref28]           | DVCS    |    |  |                    |                   |
-| Ref_29 | [link][ref29]           | DVCS    |    |  |                    |                   |
-| Ref_30 | [link][ref30]           | DVCS    |    |  |                    |                   |
+| Ref_26 | [link][ref26]           | DVCS    | proton   |  |                    |                   |
+| Ref_27 | [link][ref27]           | DVCS    | proton   |  |                    |                   |
+| Ref_28 | [link][ref28]           | DVCS    | proton   |  |                    |                   |
+| Ref_29 | [link][ref29]           | DVCS    | proton   |  |                    |                   |
+| Ref_30 | [link][ref30]           | DVCS    | proton   |  |                    |                   |
 
 
 <ins>Ref_1</ins>
