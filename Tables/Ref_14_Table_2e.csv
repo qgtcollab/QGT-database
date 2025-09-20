@@ -1,5 +1,5 @@
-,Unnamed: 0,xB,t,Q2,obs,value,units,stat_u,syst_u,col,lepton,E_lepton,hadron,E_hadron
-0,0,0.05,-0.1,1.4,ALTISin2Phi,0.135,none,0.176,0.003,HERMES,e-/e+,27.6,p,0.93827208816
-1,1,0.08,-0.1,2.1,ALTISin2Phi,-0.209,none,0.197,0.007,HERMES,e-/e+,27.6,p,0.93827208816
-2,2,0.12,-0.13,3.1,ALTISin2Phi,-0.074,none,0.21,0.005,HERMES,e-/e+,27.6,p,0.93827208816
-3,3,0.2,-0.2,5.0,ALTISin2Phi,0.028,none,0.29,0.019,HERMES,e-/e+,27.6,p,0.93827208816
+,xB,t,Q2,obs,value,units,stat_u,syst_u,col,lepton,E_lepton,hadron,E_hadron
+0,0.05,-0.1,1.4,ALTISin2Phi,0.135,none,0.176,0.003,HERMES,e-/e+,27.6,p,0.93827208816
+1,0.08,-0.1,2.1,ALTISin2Phi,-0.209,none,0.197,0.007,HERMES,e-/e+,27.6,p,0.93827208816
+2,0.12,-0.13,3.1,ALTISin2Phi,-0.074,none,0.21,0.005,HERMES,e-/e+,27.6,p,0.93827208816
+3,0.2,-0.2,5.0,ALTISin2Phi,0.028,none,0.29,0.019,HERMES,e-/e+,27.6,p,0.93827208816
