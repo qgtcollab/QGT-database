@@ -10,7 +10,7 @@ The pdf files with papers are in the directory *PDF*.
 
 An example of visualization of the data is in the notebook visuals_example.ipynb.
 
-<a target="_blank" href="https://github.com/qgtcollab/QGT-database/tree/main/visuals_example.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/qgtcollab/QGT-database/blob/main/visuals_example.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
