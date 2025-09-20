@@ -4,6 +4,10 @@
 
 Supported by DOE topical collaboration program (DE-SC0023646)
 
+The data in this databse are contained in csv files in the directory *Tables*
+The pdf files with papers are in the directory *PDF*
+An example of visualization of the data is in the notebook visuals_example.ipynb
+
 ## DVCS data
 
 | index | ref                    | process | target   | obs                    | experiment               | notes             |
