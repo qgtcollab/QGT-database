@@ -1,5 +1,0 @@
-,t,Q2,W,value,stat_u,syst_u,col,obs,units,target,beam,rs
-0,0.1,4,71,29.9,4.1,7.1,H1,dsigma/dt,nb/GeV2,proton,e+,300.88
-1,0.3,4,71,8,1.4,1.4,H1,dsigma/dt,nb/GeV2,proton,e+,300.88
-2,0.5,4,71,2.13,0.6,0.69,H1,dsigma/dt,nb/GeV2,proton,e+,300.88
-3,0.8,4,71,0.27,0.12,0.14,H1,dsigma/dt,nb/GeV2,proton,e+,300.88
