@@ -1,0 +1,7 @@
+,Unnamed: 0,dependence,Q2_min,Q2_max,xB,t,Q2,obs,value,units,stat_u,syst_u,col,lepton,E_lepton,hadron,E_hadron
+0,0,Q2,1.0,1.4,0.05,-0.08,1.2,ALU_I_sinphi,-0.247,none,0.059,0.055,HERMES,e-/e+,27.6,p,0.9382720882
+1,1,Q2,1.4,1.8,0.07,-0.1,1.59,ALU_I_sinphi,-0.151,none,0.067,0.042,HERMES,e-/e+,27.6,p,0.9382720882
+2,2,Q2,1.8,2.4,0.08,-0.11,2.08,ALU_I_sinphi,-0.23,none,0.064,0.031,HERMES,e-/e+,27.6,p,0.9382720882
+3,3,Q2,2.4,3.2,0.1,-0.13,2.77,ALU_I_sinphi,-0.425,none,0.068,0.041,HERMES,e-/e+,27.6,p,0.9382720882
+4,4,Q2,3.2,4.5,0.13,-0.15,3.76,ALU_I_sinphi,-0.103,none,0.076,0.04,HERMES,e-/e+,27.6,p,0.9382720882
+5,5,Q2,4.5,10.0,0.2,-0.22,5.75,ALU_I_sinphi,-0.129,none,0.094,0.008,HERMES,e-/e+,27.6,p,0.9382720882

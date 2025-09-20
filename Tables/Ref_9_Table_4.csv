@@ -1,0 +1,5 @@
+,Unnamed: 0,W,t,Q2,obs,value,units,stat_u,syst_u,%norm_c,col,lepton,E_lepton,hadron,E_hadron
+0,0,104,-0.14,3.2,dSig/dt,34.6,nb/GeV^2,9.6,2.4,7,ZEUS,e+,27.5,p,920
+1,1,104,-0.25,3.2,dSig/dt,32.7,nb/GeV^2,9.4,2.3,7,ZEUS,e+,27.5,p,920
+2,2,104,-0.36,3.2,dSig/dt,19.6,nb/GeV^2,7.5,1.4,7,ZEUS,e+,27.5,p,920
+3,3,104,-0.47,3.2,dSig/dt,5.7,nb/GeV^2,4.1,0.4,7,ZEUS,e+,27.5,p,920
