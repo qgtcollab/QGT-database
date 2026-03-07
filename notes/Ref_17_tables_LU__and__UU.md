@@ -12,7 +12,7 @@ Email: [marjoriemromero@gmail.com](marjoriemromero@gmail.com), [rdave8224@gmail.
 
 ## Reference
 
-\[Reference Link\]\[https://inspirehep.net/literature/717721\]
+[Reference Link](https://inspirehep.net/literature/1362489)
 
 # Notes
 This study present final results on the photon electroproduction (ep → epγ ) cross section in the deeply virtual Compton scattering (DVCS) regime and the valence quark region from Jefferson Lab experiment E00-110
