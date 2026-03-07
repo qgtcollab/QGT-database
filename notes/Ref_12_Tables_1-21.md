@@ -12,7 +12,7 @@ Email: [rdave8224@gmail.com](rdave8224@gmail.com), [marjoriemromero@gmail.com](m
 
 ## Reference
 
-\[Reference Link\]\[https://inspirehep.net/literature/831699\]
+[Reference Link](https://inspirehep.net/literature/831699)
 
 ## Notes
 
