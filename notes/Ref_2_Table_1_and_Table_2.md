@@ -12,7 +12,7 @@ Email: [rdave8224@gmail.com](rdave8224@gmail.com), [marjoriemromero@gmail.com](m
 
 ## Reference
 
-\[Reference Link\]\[https://inspirehep.net/literature/560087\]
+[Reference Link](https://inspirehep.net/literature/560087)
 
 ## Notes
 E_lepton denotes the lepton beam energy of the beam used in the experiment (Measured at 4.25 GeV). The lepton type used in this experiment was an electron.
