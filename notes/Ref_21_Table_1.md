@@ -12,7 +12,7 @@ Email: [rdave8224@gmail.com](rdave8224@gmail.com), [marjoriemromero@gmail.com](m
 
 ## Reference
 
-\[Reference Link\]\[https://arxiv.org/abs/0812.2517]
+[Reference Link](https://inspirehep.net/literature/1653939)
 
 ## Notes
 The DVCS cross section was measured from studying exclusive single photon production in muon-proton scattering μp → μ'p'γ using 160 GeV/c average momentum μ⁺ and μ⁻ beams, provided by the M2 beamline of the CERN SPS.
