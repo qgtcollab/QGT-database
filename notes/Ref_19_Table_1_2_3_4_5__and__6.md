@@ -12,7 +12,7 @@ Email: [rdave8224@gmail.com](rdave8224@gmail.com), [marjoriemromero@gmail.com](m
 
 ## Reference
 
-\[Reference Link\]\[https://arxiv.org/abs/0812.2517]
+[Reference Link](https://inspirehep.net/literature/1519829)
 
 ## Notes
 The study measured the magnitude and phase of the DVCS amplitude to perform three-dimensional (3D) images of the proton internal structure. It reports accurate measurements of the photon electroproduction ep → epγ cross section of a polarized electron beam of energy k off an unpolarized proton target.
