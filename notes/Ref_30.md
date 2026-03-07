@@ -12,8 +12,7 @@ Email: [rdave8224@gmail.com](rdave8224@gmail.com), [marjoriemromero@gmail.com](m
 
 ## Reference
 
-\[Reference Link\]\[https://inspirehep.net/literature/866047\]
-
+[Reference Link](https://inspirehep.net/literature/866047)
 ## Notes
 
 **THIS REFERENCE DOES NOT HAVE A CORRESPONDING EXCEL TABLE**
