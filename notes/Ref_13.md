@@ -12,7 +12,7 @@ Email: [marjoriemromero@gmail.com](marjoriemromero@gmail.com), [rdave8224@gmail.
 
 ## Reference
 
-[Reference Link](https://inspirehep.net/literature/717721)
+[Reference Link](https://inspirehep.net/literature/850490)
 
 # Notes
 This experiment measured polarization asymmetries in the hard exclusive leptoproduction of real photons from a longitudinally polarized hydrogen target. The data was collected by the HERMES collaboration. Photons were identified by selecting a single signal cluster in the electromagnetic calorimeter.
