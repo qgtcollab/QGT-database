@@ -9,7 +9,7 @@ Marjorie / Madhav
 [mmr6537@psu.edu](mailto:mmr6537@psu.edu) [rdave8224@gmail.com](mailto:rdave8224@gmail.com)
 
 ## Reference  
-[Reference Link](https://inspirehep.net/literature/1209717)
+[Reference Link](https://inspirehep.net/literature/558570)
 
 ## Notes  
 This study measured the beam-spin azimuthal asymmetry in hard exclusive electroproduction of photons, primarily associated with the interference between Deeply Virtual Compton Scattering (DVCS) and Bethe-Heitler (BH) processes.
