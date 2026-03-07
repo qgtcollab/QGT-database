@@ -12,7 +12,7 @@ Email: [marjoriemromero@gmail.com](marjoriemromero@gmail.com), [rdave8224@gmail.
 
 ## Reference
 
-\[Reference Link\]\[https://inspirehep.net/literature/717721\]
+\[Reference Link\]\[https://inspirehep.net/literature/1095241]
 
 # Notes
 This study presents beam-helicity and beam-charge asymmetries from the hard exclusive leptoproduction of real photons via deeply virtual Compton scattering (DVCS) on an unpolarised hydrogen gas target internal to the Hera lepton storage ring at Desy.
