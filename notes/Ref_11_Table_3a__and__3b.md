@@ -12,7 +12,7 @@ Email: [marjoriemromero@gmail.com](marjoriemromero@gmail.com), [rdave8224@gmail.
 
 ## Reference
 
-\[Reference Link\]\[https://inspirehep.net/literature/717721\]
+[Reference Link](https://inspirehep.net/literature/827347)
 
 ## Notes
 The study is a measurement of elastic deeply virtual Compton scattering γ∗p → γ p using e⁺p and e⁻p collision data over φ recorded with the H1 detector at HERA.
