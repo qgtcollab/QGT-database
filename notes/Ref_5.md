@@ -12,7 +12,7 @@ Email: mmr6537@psu.edu (mailto:mmr6537@psu.edu)[rdave8224@gmail.com](mailto:rdav
 
 ## Reference
 
-\[Reference Link\]\[https://inspirehep.net/literature/722473]
+[Reference Link](https://inspirehep.net/literature/722473)
 
 ## Notes
 Experiment Overview
