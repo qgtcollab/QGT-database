@@ -12,7 +12,7 @@ Email: mmr6537@psu.edu (mailto:mmr6537@psu.edu)[rdave8224@gmail.com](mailto:rdav
 
 ## Reference
 
-\[Reference Link\]\[https://inspirehep.net/literature/682849]
+[Reference Link](https://inspirehep.net/literature/682849)
 
 ## Notes
 This dataset reports DVCS cross-section measurements for the process \( e^+ p \rightarrow e^+ \gamma p \). Data were collected with the H1 Detector at HERA for proton beam energies of 820 GeV (Table 1a) and 920 GeV (Table 1b).
