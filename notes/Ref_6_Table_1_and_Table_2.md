@@ -11,8 +11,8 @@ Madhav Raghavendra / Marjorie Romero
 Email: [rdave8224@gmail.com](rdave8224@gmail.com), [marjoriemromero@gmail.com](marjoriemromero@gmail.com)
 
 ## Reference
-
-\[Reference Link\]\[https://inspirehep.net/literature/717721\]
+[
+Reference Link](https://inspirehep.net/literature/717721)
 
 ## Notes
 
