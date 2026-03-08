@@ -12,7 +12,7 @@ Email: [rdave8224@gmail.com](rdave8224@gmail.com), [marjoriemromero@gmail.com](m
 
 ## Reference
 
-\[Reference Link\]\[https://arxiv.org/abs/0812.2517]
+[Reference Link](https://arxiv.org/abs/0812.2517)
 
 ## Notes
 The data presented in Table 4 is derived from Table 4 on page 9. It details the DVCS differential cross section, dσ^(γ∗p→γp)/dt, as a function of |t|. Values are quoted at the centre of each |t| bin and for Q² = 3.2 GeV² and W = 104 GeV. The first uncertainty is statistical and the second systematic.
