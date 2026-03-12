@@ -21,7 +21,7 @@ Email: [rdave8224@gmail.com](rdave8224@gmail.com), [marjoriemromero@gmail.com](m
 The lepton beam energy of the beam used in the experiment (measured at 10.6 GeV).  
 The lepton type(s) used in this experiment were electrons.
 
-The hadron used in the experiment was a proton, with a rest-energy constant of 0.938 GeV.
+The hadron used in the experiment was a neutron, with a rest-energy constant of 0.938 GeV.
 
 Collaboration was done with the CEBAF large acceptance spectrometer (CLAS).
 
