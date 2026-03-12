@@ -72,8 +72,12 @@ The function uses a cos(phi) modulation instead of a sin(phi) modulation, and is
 
 The value of t in the exclusive region is calculated as
 
-$$t \;=\;
-\frac{-\,Q^2 \;-\; 2\,\nu\Bigl(\nu \;-\;\sqrt{\nu^2 + Q^2}\,\cos\theta_{\gamma^*\gamma}\Bigr)}{1 \;+\;\frac{1}{M_p}\Bigl(\nu \;-\;\sqrt{\nu^2 + Q^2}\,\cos\theta_{\gamma^*\gamma}\Bigr)}$$
+$$
+t =
+\frac{-Q^2 - 2\nu\Bigl(\nu - \sqrt{\nu^2 + Q^2}\cos\theta_{\gamma^*_\gamma}\Bigr)}
+{1 + \frac{1}{M_p}\Bigl(\nu - \sqrt{\nu^2 + Q^2}\cos\theta_{\gamma^*_\gamma}\Bigr)}
+
+$$
 
 ---
 
