@@ -51,7 +51,7 @@ An example of a reader of files from the database Reader.ipynb.
 | Ref_25 | [link][ref25] | DVCS | proton | $A$ | CLAS |[Ref_25.md](notes/Ref_25.md) |
 | Ref_26 | [link][ref26] | DVCS | neutron   | $A_{LU}$ | CLAS                   |[Ref_26.md](notes/Ref_26.md)|
 | Ref_27 | [link][ref27] | DVCS | proton    |  |                    |[Ref_27.md](notes/Ref_27.md)|
-| Ref_28 | [link][ref28] | DVCS | proton    | $d^{4}\sigma_{UU}$, $d^{4}\sigma_{LU}$ |                    |[Ref_28_Tables_1-2.md](notes/Ref_28_Tables_1-2.md)|
+| Ref_28 | [link][ref28] | DVCS | proton    | $d^{4}\sigma_{UU}$, $d^{4}\sigma_{LU}$ |  CLAS                  |[Ref_28_Tables_1-2.md](notes/Ref_28_Tables_1-2.md)|
 | Ref_29 | [link][ref29] | DVCS | proton    |  |                    |[Ref_29.md](notes/Ref_29.md)|
 | Ref_30 | [link][ref30] | DVCS | deuteron  |  | HERMES                   |[Ref_30.md](notes/Ref_30.md)|
 
