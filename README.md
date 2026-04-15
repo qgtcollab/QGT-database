@@ -30,7 +30,7 @@ An example of a reader of files from the database Reader.ipynb.
 | Ref_4 | [link][ref4]           | DVCS    | proton   | $A_{UL}^{\pi0}$, $A_{UL}^{exp}$, $A_{UL}$, $A_{UL}^{\sin\phi}$ | CLAS |[Ref_4_Table_1_and_Table_2.md](notes/Ref_4_Table_1_and_Table_2.md) |
 | Ref_5 | [link][ref5]           | DVCS    | proton   | Im \[ $C^{I} (F)$ \], Im \[ $C^{I} (F^{eff})$ \], $C (F)$, \[ $C + \Delta C$ \] ($F$), \[ $C (F^{eff})$ \]| JLAB-E-00-110 |[Ref_5.md](notes/Ref_5.md)|
 | Ref_6 | [link][ref6]           | DVCS    | proton   | $A_{C}$, $A_{C}^{\cos\phi}$ | HERMES |[Ref_6_Table_1_and_Table_2.md](notes/Ref_6_Table_1_and_Table_2.md) |
-| Ref_7 | [link][ref7]           | DVCS    | proton   | $A$ | CLAS |[Ref_7_Table_1.md](notes/Ref_7_Table_1.md)|
+| Ref_7 | [link][ref7]           | DVCS    | proton   | $A_{LU}$ | CLAS |[Ref_7_Table_1.md](notes/Ref_7_Table_1.md)|
 | Ref_8 | [link][ref8]           | DVCS    | proton   | $A_{C}^{\cos(0\phi)}$, $A_{C}^{\cos\phi}$, $A_{UT, DVCS}^{\sin(\phi-\phi_{S})}$, $A_{UT, I}^{\sin(\phi-\phi_{S})}$, $A_{UT, I}^{\sin(\phi-\phi_{S})\cos\phi}$, $A_{UT, I}^{\cos(\phi-\phi_{S})\sin\phi}$ | HERMES |[Ref_8_Tables_1-18.md](notes/Ref_8_Tables_1-18.md)|
 | Ref_9 | [link][ref9]           | DVCS    | proton   | $\sigma^{\gamma *p -> \gamma p}$, $d\sigma^{\gamma *p -> \gamma p}/dt$ | ZEUS |[Ref_9.md](notes/Ref_9.md)|
 | Ref_10| [link][ref10]          | DVCS    | proton   | $A_{LU}$ | CLAS |[Ref_10_Tables_1-2.md](notes/Ref_10_Tables_1-2.md)|
