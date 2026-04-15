@@ -39,7 +39,7 @@ An example of a reader of files from the database Reader.ipynb.
 | Ref_13| [link][ref13]          | DVCS    | proton   | $A_{UL}^{\sin\phi}$, $A_{UL}^{\sin(2\phi)}$, $A_{UL}^{\sin(3\phi)}$, $A_{LL}^{\cos(0\phi)}$, $A_{LL}^{\cos\phi}$, $A_{LL}^{\cos(2\phi)}$ | HERMES |[Ref_13.md](notes/Ref_13.md)|
 | Ref_14 | [link][ref14]          | DVCS    | proton   | $A_{LT,I}^{cos(\phi−\phi_{s})}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos(2\phi)}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin\phi}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin(2\phi)}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,BH+DVCS}^{sin(\phi−\phi_{s})sin\phi}$ | HERMES |[Ref_14_Tables_1-8.md](notes/Ref_14_Tables_1-8.md) |
 | Ref_15 | [link][ref15] | DVCS | proton | $A_{LU,I}^{sin(n\phi)}$, $A_{LU,DVCS}^{sin\phi}$, $A_{C}^{cos(n\phi)}$ | HERMES |[Ref_15.md](notes/Ref_15.md) |
-| Ref_16 | [link][ref16] | DVCS | proton | $A_{LL}$, $A_{UL}$ | CLAS |[Ref_16_Tables_1-3.md](notes/Ref_16_Tables_1-3.md) |
+| Ref_16 | [link][ref16] | DVCS | proton | $A_{LL}$, $A_{UL}, A_{LU}$ | CLAS |[Ref_16_Tables_1-3.md](notes/Ref_16_Tables_1-3.md) |
 | Ref_17| [link][ref17] | DVCS | proton | $\frac{d\sigma}{dx_{B}dQ^{2}dtd\phi}$ | E00-110 |[Ref_17_tables_LU__and__UU.md](notes/Ref_17_tables_LU__and__UU.md) |
 | Ref_18 | [link][ref18] | DVCS | proton | $d\sigma$ | CLAS |[Ref_18_Tables_1-2.md](notes/Ref_18_Tables_1-2.md) |
 | Ref_19 | [link][ref19] | DVCS | proton | $d^{4}\sigma$ | JLab E07-007 |[Ref_19_Table_1_2_3_4_5__and__6.md](notes/Ref_19_Table_1_2_3_4_5__and__6.md) |
