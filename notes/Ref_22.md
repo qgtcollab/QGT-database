@@ -16,8 +16,6 @@ Email: [rdave8224@gmail.com](rdave8224@gmail.com), [marjoriemromero@gmail.com](m
 
 ## Notes
 
-**THIS REFERENCE DOES NOT HAVE A CORRESPONDING DATA TABLE**
-
 The lepton beam energies of the beam used in the experiment (measured at two beam energies, E=4.45 and 5.55GeV GeV).  
 The lepton type(s) used in this experiment were electrons.
 
