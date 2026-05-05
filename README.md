@@ -42,10 +42,10 @@ An example of a reader of files from the database Reader.ipynb.
 | Ref_16 | [link][ref16] | DVCS | proton | $A_{LL}$, $A_{UL}, A_{LU}$ | CLAS |[Ref_16_Tables_1-3.md](notes/Ref_16_Tables_1-3.md) |
 | Ref_17| [link][ref17] | DVCS | proton | $\frac{d\sigma}{dx_{B}dQ^{2}dtd\phi}$ | E00-110 |[Ref_17_tables_LU__and__UU.md](notes/Ref_17_tables_LU__and__UU.md) |
 | Ref_18 | [link][ref18] | DVCS | proton | $d\sigma$ | CLAS |[Ref_18_Tables_1-2.md](notes/Ref_18_Tables_1-2.md) |
-| Ref_19 | [link][ref19] | DVCS | proton | $d^{4}\sigma$ | JLab E07-007 |[Ref_19_Table_1_2_3_4_5__and__6.md](notes/Ref_19_Table_1_2_3_4_5__and__6.md) |
+| Ref_19 | [link][ref19] | DVCS | proton | $d^{4}\sigma_{UU}$ | JLab E07-007 |[Ref_19_Table_1_2_3_4_5__and__6.md](notes/Ref_19_Table_1_2_3_4_5__and__6.md) |
 | Ref_20 | [link][ref20] | DVCS | $^{4}He$ | $A_{LU}$ | CLAS |[Ref_20.md](notes/Ref_20.md) |
 | Ref_21 | [link][ref21] | DVCS | proton | $d\sigma$ | COMPASS |[Ref_21_Table_1.md](notes/Ref_21_Table_1.md)|
-| Ref_22 | [link][ref22] | DVCS | neutron | $d\sigma$ | JLab E08-025 |[Ref_22.md](notes/Ref_22.md) |
+| Ref_22 | [link][ref22] | DVCS | neutron | $d^{4}\sigma$ | JLab E08-025 |[Ref_22.md](notes/Ref_22.md) |
 | Ref_23 | [link][ref23] | DVCS | $^{4}He$ | $A_{LU}$ | CLAS |[Ref_23.md](notes/Ref_23.md) |
 | Ref_24 | [link][ref24] | DVCS | proton | $d\sigma$ | JLab E12-06-114 |[Ref_24_Tables_1-2.md](notes/Ref_24_Tables_1-2.md) |
 | Ref_25 | [link][ref25] | DVCS | proton | $A$ | CLAS |[Ref_25.md](notes/Ref_25.md) |
