@@ -1,4 +1,4 @@
-,E_lepton,E_hadron,lepton,hadron,col,t,Q2,xB,phi,deg/rad,bin,obs,value,units,stat_u,Sys. Err. High,Sys. Err. Low,syst_c
+,E_lepton,E_hadron,lepton,hadron,col,t,Q2,xB,phi,deg/rad,bin,obs,value,units,stat_u,Sys. Err. High,Sys. Err. Low,syst_u
 0,4.45,0.939565422,e-,n,JLab E08-025,-0.4,1.74,0.36,15,deg,0,d4SigUU,68.1636,nb GeV^-4,19.0093,9.5191,21.7036,15.6114
 1,4.45,0.939565422,e-,n,JLab E08-025,-0.4,1.74,0.36,45,deg,0,d4SigUU,31.2501,nb GeV^-4,5.98883,4.34178,5.86889,5.10534
 2,4.45,0.939565422,e-,n,JLab E08-025,-0.4,1.74,0.36,75,deg,0,d4SigUU,14.2648,nb GeV^-4,3.29185,1.61093,1.83487,1.72290
