@@ -1,0 +1,5 @@
+,xB,t,Q2,obs,value,units,stat_u,syst_u,col,lepton,E_lepton,hadron,E_hadron
+0,0.08,-0.03,1.9,ALTICos0Phi,-0.199,none,0.135,0.007,HERMES,e-/e+,27.6,p,0.93827208816
+1,0.1,-0.1,2.5,ALTICos0Phi,-0.004,none,0.156,0.007,HERMES,e-/e+,27.6,p,0.93827208816
+2,0.11,-0.2,2.9,ALTICos0Phi,-0.052,none,0.173,0.013,HERMES,e-/e+,27.6,p,0.93827208816
+3,0.12,-0.42,3.5,ALTICos0Phi,-0.011,none,0.274,0.008,HERMES,e-/e+,27.6,p,0.93827208816

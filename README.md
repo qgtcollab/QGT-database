@@ -54,6 +54,7 @@ An example of a reader of files from the database Reader.ipynb.
 | Ref_28 | [link][ref28] | DVCS | proton    | $d^{4}\sigma_{UU}$, $d^{4}\sigma_{LU}$ |  CLAS                  |[Ref_28_Tables_1-2.md](notes/Ref_28_Tables_1-2.md)|
 | Ref_29 | [link][ref29] | DVCS | proton    |  |                    |[Ref_29.md](notes/Ref_29.md)|
 | Ref_30 | [link][ref30] | DVCS | deuteron  |  | HERMES                   |[Ref_30.md](notes/Ref_30.md)|
+| Ref_31 | [link][ref31] | DVCS | proton    | $d^{4}\sigma_{UU}$ |  CLAS 
 
 
 <ins>Ref_1</ins>
@@ -266,3 +267,9 @@ Inspire link: https://inspirehep.net/literature/835694
 [ref30]: https://inspirehep.net/literature/866047
 
 Inspire link: https://inspirehep.net/literature/866047
+
+<ins>Ref_31</ins>
+
+[ref31]: https://inspirehep.net/literature/3194626
+
+Inspire link: https://inspirehep.net/literature/3194626
